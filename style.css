@@ -43,11 +43,10 @@ button {
     &:hover {
         color: rgb(0, 207, 148);
         background-color: darkblue;
-        rotate: 3600000deg;
         cursor: pointer;
         border-width: 2rem;
         border-radius: 10rem;
-        scale: 6;
+        scale: 10;
         align-items: center;
     }
 }
