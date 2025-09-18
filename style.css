@@ -38,14 +38,15 @@ button {
     color: darkblue;
     box-shadow: 5px 5px 5px;
     text-shadow: 5px 5px 5px;
-    transition: 100.0s;
+    transition: 1.0s;
     padding: 0;
     &:hover {
         color: rgb(0, 207, 148);
         background-color: darkblue;
-        rotate: 360deg;
+        rotate: 3600000deg;
         cursor: pointer;
+        border-width: 2rem;
         border-radius: 10rem;
-        scale: 2;
+        scale: 6;
     }
 }
