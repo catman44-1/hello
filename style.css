@@ -38,7 +38,7 @@ button {
     color: darkblue;
     box-shadow: 5px 5px 5px;
     text-shadow: 5px 5px 5px;
-    transition: 1.0s;
+    transition: 10.0s;
     padding: 0;
     &:hover {
         color: rgb(0, 207, 148);
@@ -48,5 +48,6 @@ button {
         border-width: 2rem;
         border-radius: 10rem;
         scale: 6;
+        align-items: center;
     }
 }
